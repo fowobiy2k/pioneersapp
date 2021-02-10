@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+
+header {
+	background-color : ;
+	margin: 0;	
+	overflow: hidden;
+}
+
+header h1 {
+	color: white;
+	width: 100%;
+}
+
+header img {
+
+}
+
+nav {
+	color: #00008b;
+	height : 20%;
+	background-color : ;
+	margin: ;
+}
+
+main {
+	margin-top: 5%;
+	width: ;
+	height: 70%;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.col-left {
+	background-color : ;
+}
+
+.col-right {
+	background-color : blue;
+}
+
+img {
+  float: left;
+  height: 100%;
+}

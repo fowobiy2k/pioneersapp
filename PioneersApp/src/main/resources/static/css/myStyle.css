@@ -3,8 +3,8 @@
 
 header {
 	background-color : ;
-	margin: 0;	
 	overflow: hidden;
+	height: 20%;
 }
 
 header h1 {
@@ -18,15 +18,15 @@ header img {
 
 nav {
 	color: #00008b;
-	height : 20%;
+	height : ;
 	background-color : ;
 	margin: ;
 }
 
 main {
-	margin-top: 5%;
+	margin-top: ;
 	width: ;
-	height: 70%;
+	height: 80%;
 }
 
 body {
@@ -46,4 +46,20 @@ body {
 img {
   float: left;
   height: 100%;
+}
+
+.main-div {
+	background-color: red;
+	width: 50%;
+	height: 40vw;
+	margin: 0 auto;
+	position: static;
+}
+
+.over-div {
+	position: absolute;
+	margin: 0 auto;
+	top: 0;
+	right: 0;
+	height: 40vw;
 }
